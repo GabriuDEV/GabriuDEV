@@ -3,12 +3,14 @@
 ![me](https://i.imgur.com/NsBXIkV.png)
 
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
- <img align="left" alt"LinkedIn" | LinkedIn width="64px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+ <img align="left" alt"LinkedIn" | LinkedIn width="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br><br>
 
+<div>
+  <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3>  
+</div>
 
-
-### 👨🏻 About Me:
+## 👨🏻 About Me:
 🌱 I´m currently learning<br><br>🕹️ I like to create and adapt me<br><br>📧 Contact Me: gabriudev21@gmail.com  
 
 ### 💻 Skills and Tools:
