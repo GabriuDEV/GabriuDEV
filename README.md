@@ -1,9 +1,5 @@
 # 👨🏻 About Me:
-📘 I´m currently studying at UTN Facultad Regional Reconquista<br><br>🌱 I´m currently learning<br><br>🕹️ I like to create and adapt me<br><br>📧 Contact Me: gabriudev21@gmail.com
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabrielsandrigo) 
+📘 I´m currently studying at UTN Facultad Regional Reconquista<br><br>🌱 I´m currently learning<br><br>🕹️ I like to create and adapt me<br><br>📧 Contact Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabrielsandrigo), Mail: gabriudev21@gmail.com  
 
 ---
 
