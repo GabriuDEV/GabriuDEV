@@ -1,5 +1,4 @@
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gabriel Sandrigo</h2>
-<Br>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gabriel Sandrigo</h1>
  
 ![me](https://i.imgur.com/NsBXIkV.png)
 
