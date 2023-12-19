@@ -17,7 +17,7 @@
   
    - 📘 I´m currently studying at UTN Facultad Regional Reconquista
   
-   - 🌱 I´m currently learning HTML, JavaScript, C#
+   - 🌱 I´m currently learning 
   
    - 🕹️ I like to create and adapt me
   
