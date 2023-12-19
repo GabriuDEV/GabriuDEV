@@ -4,7 +4,7 @@
   <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3> 
 </div>
 <p>
-  [!][LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielsandrigo)
+  ![Static Badge]([https://img.shields.io/badge/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white):badgeContent)
 </p>
 
 ---
