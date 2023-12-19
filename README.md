@@ -9,7 +9,7 @@
  <img alt"Gmail" | Gmail width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<h2 aling="center"> I am currently studying programming at university, although I also like to learn on my own </h2>
+<h2 style="color: #D2691E">I am currently studying programming at university, although I also like to learn on my own </h2>
 
 ## 👨🏻 About Me:
 🌱 I´m currently learning<br><br>🕹️ I like to create and adapt me<br><br>📧 Contact Me: gabriudev21@gmail.com<br>
