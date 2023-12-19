@@ -5,12 +5,10 @@
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="left" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="gabriudev21@gmail.com">
- <img align="left" alt"Gmail" | Gmail width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img align="left" alt"Gmail" | Gmail width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-##
 <div>
   <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3>  
 </div>
