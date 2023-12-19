@@ -9,9 +9,8 @@
  <img align="left" alt"Gmail" | Gmail width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-##
 <div>
-  <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3>  
+  <h3 align="center"> <br><br>I am currently studying programming at university, although I also like to learn on my own.</h3>  
 </div>
 
 ## 👨🏻 About Me:
