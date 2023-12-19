@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/NsBXIkV.png" />
   <h1 align="center"> Hi 👋, I´m Gabriel</h1>
   <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3> 
-  <t><t>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabrielsandrigo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabrielsandrigo)
 </div>
 
 ---
