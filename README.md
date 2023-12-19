@@ -7,11 +7,7 @@
 </a>
 
 <a href="gabriudev21@gmail.com">
- <img align="left" alt"Gmail" | Gmail width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a>
- <img align="left" alt"+54 9 3482-236232" |  width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <img align="left" alt"Gmail" | Gmail width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ##
