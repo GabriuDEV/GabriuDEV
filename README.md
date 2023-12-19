@@ -7,7 +7,7 @@
 </a>
 
 <a href="gabriudev21@gmail.com">
- <img align="left" alt"Gmail" | Gmail width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img align="left" alt"Gmail" | Gmail width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ##
