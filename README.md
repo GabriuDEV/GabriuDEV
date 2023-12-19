@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <! <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  ![Static Badge]([https://img.shields.io/badge/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white):badgeContent)
 </div>
 
 ---
