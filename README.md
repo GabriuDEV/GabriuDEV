@@ -5,13 +5,16 @@
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="left" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="gabriudev21@gmail.com">
  <img align="left" alt"Gmail" | Gmail width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a>
- <img align="left" alt"WhatsApp" | +54 9 3482-236232 width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <img align="left" alt"+54 9 3482-236232" |  width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+##
 <div>
   <h3 align="center"> I am currently studying programming at university, although I also like to learn on my own.</h3>  
 </div>
