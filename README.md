@@ -6,7 +6,7 @@
 
 <br>
 
-- 📧 Contact Me: **gabriudev21@gmail.com**
+- 📧 Contact Me: **gabriudev21@gmail.com**<br>
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="aleft" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
