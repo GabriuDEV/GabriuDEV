@@ -1,6 +1,8 @@
 <h1 align="left">Hi, I´m Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ![me](https://i.imgur.com/ffIAx0X.png)
+![Intel Core 11th 11800H](https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Nvidia Geforce RTX 3060 Laptop](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 - 📧 Contact Me: **gabriudev21@gmail.com**
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
@@ -49,9 +51,3 @@
 
 <br>
 
-- **Workstation**:
-
-   ![Intel Core 11th 11800H](https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-   ![Nvidia Geforce RTX 3060 Laptop](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br>   
