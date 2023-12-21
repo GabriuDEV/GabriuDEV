@@ -1,4 +1,4 @@
-<h1 align="left">Hello everyone<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ![me](https://i.imgur.com/ffIAx0X.png)
 
@@ -9,10 +9,11 @@
  <img alt"Gmail" | Gmail width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<h2 style="color: #D2691E">I am currently studying programming at university, although I also like to learn on my own </h2>
+<h3 align="left">I am currently a university student and in my spare time I learn on my own. </h3>
 
-## 👨🏻 About Me:
-🌱 I´m currently learning<br><br>🕹️ I like to create and adapt me<br><br>
+- **👨🏻 About me:**:
+
+<h3>I am currently a university student and in my spare time I learn on my own. </h3>
 
 - **Languages**:
     
