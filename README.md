@@ -5,8 +5,6 @@
 ![Nvidia Geforce RTX 3060 Laptop](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <br>
-
-- 📧 Contact Me: **gabriudev21@gmail.com**<br>
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="aleft" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,7 +16,7 @@
 - **👨🏻 About me:**:
 
 <br>
-
+- 📧 Contact Me: **gabriudev21@gmail.com**<br>
 <h3>..... </h3>
 
 - **Languages**:
