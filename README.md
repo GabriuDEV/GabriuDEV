@@ -6,7 +6,7 @@
 
 <br>
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
- <img align="aleft" alt="LinkedIn" | LinkedIn width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img align="aleft" alt="LinkedIn" | LinkedIn width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <h3 align="left">I´m currently a university student and in my spare time I learn on my own. </h3>
