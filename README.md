@@ -1,17 +1,21 @@
-<h1 align="left">Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="left">Hi, I´m Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ![me](https://i.imgur.com/ffIAx0X.png)
 
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="left" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://gabriudev21@gmail.com">
+<a href="mailto:gabriudev21@gmail.com">
  <img alt"Gmail" | Gmail width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<h3 align="left">I am currently a university student and in my spare time I learn on my own. </h3>
+<h3 align="center">I´m currently a university student and in my spare time I learn on my own. </h3>
+
+<br>
 
 - **👨🏻 About me:**:
+
+<br>
 
 <h3>I am currently a university student and in my spare time I learn on my own. </h3>
 
