@@ -17,7 +17,6 @@
 
 <br>
 - 📧 Contact Me: **gabriudev21@gmail.com**<br>
-<h3>..... </h3>
 
 - **Languages**:
     
@@ -34,6 +33,12 @@
 
 <br>
 
+  - **Database**:
+    
+    ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+<br>
+
 - **Misc**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,9 +50,5 @@
 
 <br>
 
-- **Database**:
-    
-    ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<br>
 
