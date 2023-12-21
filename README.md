@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gabriel Sandrigo</h1>
 
-![me](https://i.imgur.com/NsBXIkV.png)
+![me](https://i.imgur.com/ffIAx0X.png)
 
 <a href="https://www.linkedin.com/in/gabrielsandrigo">
  <img align="left" alt"LinkedIn" | LinkedIn width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
